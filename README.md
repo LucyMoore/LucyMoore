@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucyMoore
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning dynatrace
+- 🌱 I’m currently learning Typescript
 
 - 📫 How to reach me lucyviolet.moore@gmail.com
 
